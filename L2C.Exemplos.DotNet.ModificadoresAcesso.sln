@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Exemplo", "1 - Exemplo", "{AB35F2AA-39B6-484E-BC0D-A50F1129D269}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L2C.Exemplos.DotNet.ModificadoresAcesso.Exp", "L2C.Exemplos.DotNet.ModificadoresAcesso.Exp\L2C.Exemplos.DotNet.ModificadoresAcesso.Exp.csproj", "{9C8BC744-D9AB-4720-AB87-78F17C368713}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C8BC744-D9AB-4720-AB87-78F17C368713}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C8BC744-D9AB-4720-AB87-78F17C368713}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C8BC744-D9AB-4720-AB87-78F17C368713}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C8BC744-D9AB-4720-AB87-78F17C368713}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9C8BC744-D9AB-4720-AB87-78F17C368713} = {AB35F2AA-39B6-484E-BC0D-A50F1129D269}
+	EndGlobalSection
+EndGlobal

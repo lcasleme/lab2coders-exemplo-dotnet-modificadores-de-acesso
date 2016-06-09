@@ -1,0 +1,5 @@
+D:\Lab2Coders\Posts\dotNET\Modificadores de Acesso\L2C.Exemplos.DotNet.ModificadoresAcesso\L2C.Exemplos.DotNet.ModificadoresAcesso.Exp\obj\Debug\L2C.Exemplos.DotNet.ModificadoresAcesso.Exp.csprojResolveAssemblyReference.cache
+D:\Lab2Coders\Posts\dotNET\Modificadores de Acesso\L2C.Exemplos.DotNet.ModificadoresAcesso\L2C.Exemplos.DotNet.ModificadoresAcesso.Exp\bin\Debug\L2C.Exemplos.DotNet.ModificadoresAcesso.Exp.dll
+D:\Lab2Coders\Posts\dotNET\Modificadores de Acesso\L2C.Exemplos.DotNet.ModificadoresAcesso\L2C.Exemplos.DotNet.ModificadoresAcesso.Exp\bin\Debug\L2C.Exemplos.DotNet.ModificadoresAcesso.Exp.pdb
+D:\Lab2Coders\Posts\dotNET\Modificadores de Acesso\L2C.Exemplos.DotNet.ModificadoresAcesso\L2C.Exemplos.DotNet.ModificadoresAcesso.Exp\obj\Debug\L2C.Exemplos.DotNet.ModificadoresAcesso.Exp.dll
+D:\Lab2Coders\Posts\dotNET\Modificadores de Acesso\L2C.Exemplos.DotNet.ModificadoresAcesso\L2C.Exemplos.DotNet.ModificadoresAcesso.Exp\obj\Debug\L2C.Exemplos.DotNet.ModificadoresAcesso.Exp.pdb
